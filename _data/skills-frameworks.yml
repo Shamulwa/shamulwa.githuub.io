@@ -1,0 +1,25 @@
+# > name: Name of your framework
+# > weight: Describes how good you know the framework - values from 1 up to 5
+#
+# Example of a framework
+# - name: Framework
+#   weight: 5
+
+
+- name: BootStrap
+  weight: 4
+
+- name: Node
+  weight: 3
+
+- name: JQuery
+  weight: 5
+
+- name: Django
+  weight: 4
+
+- name: Jekyll
+  weight: 2
+
+- name: Sass
+  weight: 5
