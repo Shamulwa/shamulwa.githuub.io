@@ -2,9 +2,9 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Sham mulwa 
+title: Sham mulwa
 # description: This will be meta HTML tag content. This can be ignored.
-description: Hey, Am Sham. And this is my Personal portfolio 
+description: Hey, Am Sham. And this is my Personal portfolio
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
@@ -65,7 +65,7 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: YouTube
+projects_title: ""
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
@@ -86,7 +86,7 @@ contact_description: I’m always open to discussing product design work or part
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: Shamulwa/shamulwa.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
