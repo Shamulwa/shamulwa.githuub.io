@@ -32,9 +32,9 @@ twitter_username: shamulwa
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: About Me
+about_me_title: About Sham
 # about_me_description: This will be displayed under the title.
-about_me_description: My name is Sham Mulwa. A freelance web designer and front-end developer with a strong desire to learn, design, develope and deploy awesome web applications. I'm a fast learner who loves puzzles and a challenge, and I'm ready to be as involved in your project as you need me to be; from the seed of the idea, to sketches, creative direction, design, system design, and even the front-end build.
+about_me_description: A freelance web designer and front-end developer with a strong desire to learn, design, develope and deploy awesome web applications. I'm a fast learner who loves puzzles and challenges, and I'm ready to be as involved in your project as you need me to be; from the seed of the idea, to sketches, creative direction, design, system design, and even the front-end build.
 
 # SKILLS SECTION
 # show_skills_card:
