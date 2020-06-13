@@ -19,8 +19,8 @@
 
 - title: Sham Mulwa
   title-url: https://shamulwa.com/
-  date: Jul 2020 
-  subtitle: My personal portfolio website 
+  date: Jul 2020
+  subtitle: My personal portfolio website
   tags:
     - tag: Node
     - tag: Javascript
@@ -31,7 +31,7 @@
 - title: Sham Code
   title-url: https://shamcode.com/
   date: Aug 2020
-  subtitle: A tech blog worth reading <br> Role - Founder and Developer
+  subtitle: A tech blog worth reading. (Website under development)<br> Role - Founder and Developer
   tags:
     - tag: Jakyll
     - tag: Netlify
@@ -51,7 +51,7 @@
 
 - title: Buniware
   title-url: https://buniware.com/
-  date: Sep 2018 
+  date: Sep 2018
   subtitle: Buniware Kenya is a software startup offering IT solutions through our robust mobile and desktop applications <br> Role - UI Designer and Web Developer
   tags:
     - tag: HTML5

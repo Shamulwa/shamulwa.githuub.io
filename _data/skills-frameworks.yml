@@ -5,7 +5,6 @@
 # - name: Framework
 #   weight: 5
 
-
 - name: BootStrap
   weight: 4
 
@@ -14,9 +13,6 @@
 
 - name: JQuery
   weight: 5
-
-- name: Django
-  weight: 4
 
 - name: Jekyll
   weight: 2

@@ -8,9 +8,6 @@
 - name: Git
   weight: 5
 
-- name: Bash
-  weight: 3
-
 - name: Photoshop
   weight: 5
 
