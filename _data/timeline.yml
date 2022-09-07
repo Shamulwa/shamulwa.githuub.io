@@ -19,7 +19,7 @@
 
 - title: Sham Mulwa
   title-url: https://shamulwa.com/
-  date: Jul 2020
+  date: Blog
   subtitle: My personal portfolio website
   tags:
     - tag: Node
@@ -30,7 +30,7 @@
 
 - title: Sham Code
   title-url: https://shamcode.com/
-  date: Aug 2020
+  date: Portfolio
   subtitle: A tech blog worth reading. (Website under development)<br> Role - Founder and Developer
   tags:
     - tag: Jakyll
@@ -40,7 +40,7 @@
 
 - title: ChamaDesk
   title-url: https://chamadesk.co.ke/
-  date: Aug 2019
+  date: Landing page 
   subtitle: ChamaDesk is a Mobile based platform designed for formal and informal groups such as, chamas, self-help groups, welfare groups, partnerships and investment groups, and helps facilitate wealth creation and welfare activities of its members. <br> Role - UI Designer and Web Developer
   tags:
     - tag: HTML5
@@ -51,7 +51,7 @@
 
 - title: Buniware
   title-url: https://buniware.com/
-  date: Sep 2018
+  date: Landing page
   subtitle: Buniware Kenya is a software startup offering IT solutions through our robust mobile and desktop applications <br> Role - UI Designer and Web Developer
   tags:
     - tag: HTML5
@@ -61,6 +61,6 @@
 
 - title: Started web development as a career
   title-url: https://shamulwa.com/
-  date: 2018
-  subtitle: I love using beautifuly designed websites, Why not make them?!
+  date: First step...
+  subtitle: Crafting Awesome Web Application!!!
   timeline-side: left
